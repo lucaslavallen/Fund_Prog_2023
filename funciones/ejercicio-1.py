@@ -11,3 +11,5 @@ num1 = int(input("ingrese el alto: "))
 num2 = int(input("ingrese el ancho: "))
 
 print(" el rectangulo es: ", geometria(num1, num2))
+
+

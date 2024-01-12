@@ -1,0 +1,5 @@
+Nombre = input("Introduce el nombre: ")
+Apellidos = input("Introduce tus apellidos: ")
+Edad = int(input("Introduce edad: "))
+Salario = float(input("Introduce salario: "))
+print(Nombre, Apellidos, "tiene ", Edad, "años", " gana ", Salario,"pesos")

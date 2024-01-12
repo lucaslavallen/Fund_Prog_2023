@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "condicionales"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
